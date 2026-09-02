@@ -11,11 +11,7 @@ venv/
 .env
 
 # Raw and processed data
-data/raw/
-data/processed/
-
-# Generated outputs
-outputs/
+data/
 
 # VS Code
 .vscode/

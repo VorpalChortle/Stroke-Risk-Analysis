@@ -1,8 +1,8 @@
 # Stroke Risk Prediction
 
-An end-to-end data analysis and machine learning project examining factors associated with observed stroke outcomes using Python, SQL, PostgreSQL, and machine-learning methods.
+An end-to-end data analysis and machine learning project examining factors associated with observed stroke outcomes using Python.
 
-## Dataset
+# Dataset
 
 This project uses the **Stroke Risk Prediction Dataset**, created and uploaded to Kaggle by **Mobeen Fatimah**.
 
@@ -17,7 +17,3 @@ The dataset is synthetically generated using Python for educational, research, a
 The dataset is used in accordance with the CC BY-SA 4.0 license. Any adaptations or derivative materials based on the dataset will be identified as such and distributed under the applicable ShareAlike requirements.
 
 The raw dataset is not included in this repository. Users should obtain the dataset directly from Kaggle using the link above.
-
-## Project Status
-
-Initial data exploration in progress.
